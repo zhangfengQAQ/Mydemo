@@ -1,3 +1,5 @@
 com/mybatis/Persons.class
 com/mybatis/PersonsMapper.class
+com/mybatis/Student.class
 com/mybatis/myBatisOne.class
+com/mybatis/Teacher.class
